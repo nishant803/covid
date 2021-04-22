@@ -1,0 +1,9 @@
+.oxygen {
+  height: 500px;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: auto;
+}

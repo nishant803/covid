@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.navbar {
+  display: flex;
+  height: 60px;
+  background-color: red;
+  color: white;
+  font-family: "Orelega One", cursive;
+  font-size: 20px;
+}
+.navbar-title {
+  width: 50%;
+}
+.navbar-contact {
+  width: 50%;
+  display: flex;
+}
+.navbar-icon {
+  margin-left: 13px;
+}

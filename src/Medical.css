@@ -1,0 +1,18 @@
+.medical {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: auto;
+}
+/* .medical-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+} */
+.parent-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
